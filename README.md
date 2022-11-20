@@ -5,6 +5,8 @@
 
 Android example where you can see how to create an app with `JetpackCompose` and `MVVM` architecture.
 
+To learn more about how jetpack's composable functions have been defined in this project, you can refer to: [Android Jetpack Compose MVVM](https://dev.to/janirefdez/android-jetpack-compose-mvvm-1nji)
+
 ## Requirements
 - Android API 21 - 33
 - Gradle 7.3.3
